@@ -96,6 +96,10 @@ body {
     margin-top: 1rem;
 }
 
+.instagram-logout:hover {
+    color: #0095f9a4;
+}
+
 .not-account {
     color: rgb(160, 160,160);
 }
@@ -106,6 +110,10 @@ body {
 
 .link-blue {
     color: #0095f6;
+}
+
+.link-blue:hover {
+    color: #0095f9a4;
 }
 
 .get-the-app {
@@ -136,11 +144,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url(./apple-button.png);
+    background-image: url(./img/apple-button.png);
 }
 
 .app-download:nth-child(2) {
-    background-image: url(./googleplay-button.png);
+    background-image: url(./img/googleplay-button.png);
 }
 
 /* media queries */
