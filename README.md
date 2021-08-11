@@ -1,6 +1,8 @@
 ## Instagram-page
 Reprodução e a minha versão da página inicial do Instagram
 
+Contribui com a minha versão implementando o design, com um plano de fundo gradiente, efeito hover em botão, e arredondando as bordas da caixa de login e cadastro.
+
 #### Minha reprodução:
 
 <div>
